@@ -1,5 +1,9 @@
 # Fileyan Releases
 
+<div align="center">
+	<img src="./assets/fileyan.svg" width="350" height="350" alt="fileyan">
+</div>
+
 Fileyan is an app to view technical information of media and other files. MediaInfo GUI alternative.
 
 [Download latest Windows installer](https://coldfunction.com/dds/mgenware/fileyan/Fileyan%20Setup%200.0.2.exe)
@@ -8,7 +12,9 @@ Fileyan is an app to view technical information of media and other files. MediaI
 
 ## Screenshots
 
-<img src="./assets/fileyan-screenshot.png" width="800" alt="Fileyan screenshot">
+Fileyan viewing a video shot by iPhone:
+
+<img src="./assets/fileyan-screenshot.png" width="1000" alt="Fileyan screenshot">
 
 ## Changelog
 
