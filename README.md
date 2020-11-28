@@ -19,3 +19,7 @@ Fileyan viewing a video shot by iPhone:
 ## Changelog
 
 [Changelog](https://github.com/mgenware/fileyan-issues/milestones?state=closed)
+
+## Feedback
+
+[Feedback](https://github.com/mgenware/fileyan-issues)
